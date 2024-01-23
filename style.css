@@ -274,6 +274,10 @@ img {
   box-sizing: border-box;
   font-family: 'Poppins', sans-serif;
 }
+
+.bot-field{
+  display: none;
+}
 .form_body{
   border-radius:15px;
   background-position: 40% 50%;
